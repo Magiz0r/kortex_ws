@@ -7,7 +7,7 @@ Use this file when you want the shortest path to the right launch command.
 In every terminal:
 
 ```bash
-cd /home/zty/workspace/another_kortex_ws
+cd {Your kinova workspace}
 source /opt/ros/humble/setup.bash
 source install/setup.bash
 ```
@@ -15,7 +15,7 @@ source install/setup.bash
 Open Isaac:
 
 ```bash
-cd /home/zty/isaac-sim
+cd {your isaacsim directory}
 ./isaac-sim.selector.sh
 ```
 
