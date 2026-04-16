@@ -1,8 +1,8 @@
-# Isaac Kinova Commands
-
-Use this file when you want the shortest path to the right launch command.
+# Isaac-Kinova
 
 ## Common Setup
+
+**Don't forget to `colcon build` after you finished these steps**
 
 In every terminal:
 
