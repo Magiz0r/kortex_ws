@@ -2,7 +2,7 @@
 
 ## Common Setup
 
-**Don't forget to `colcon build` after you finished these steps**
+**Don't forget to `colcon build` after you replace the files**
 
 In every terminal:
 
